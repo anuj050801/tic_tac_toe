@@ -6,7 +6,7 @@ Framer Motion
 To clone and run this application, you'll need Git and ReactJS installed on your computer. From your command line:
 
 # Clone this repository
-$ git clone https://github.com/YoucefHmd/TIC-TAC-TOE-GAME.git
+$ git clone 
 
 # Go into the repository
 $ cd TIC-TAC-TOE-GAME
